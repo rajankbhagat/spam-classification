@@ -1,0 +1,2 @@
+The objective of this project is to classify the given text corpus of the email as spam or ham .
+I have done the basic text preprocessing , and then applied naive bayes for the classification task.
